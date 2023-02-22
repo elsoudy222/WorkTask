@@ -20,6 +20,7 @@ class _HomeScreenState extends State<HomeScreen> {
       defaultColor = colorArray[randomColor];
     });
   }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
