@@ -1,6 +1,6 @@
 # work_task
 
-Task Project ........\n
+Task Project ........
 This task I used Bloc as state management to change background color randomly with any click on the screen.
 
 ## Getting Started
