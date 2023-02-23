@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 List<Color> colorArray = const [
+  Colors.black,
   Color(0xFFFF6633),
   Color(0xFFFFB399),
   Color(0xFFFF33FF),
