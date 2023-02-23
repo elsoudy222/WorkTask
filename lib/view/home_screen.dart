@@ -1,11 +1,8 @@
-import 'dart:math';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:work_task/view_model/home_cubit.dart';
 import 'package:work_task/view_model/home_state.dart';
-
-import '../constants/colors_list.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({Key? key}) : super(key: key);
